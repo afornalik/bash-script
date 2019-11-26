@@ -1,0 +1,11 @@
+This is first line.
+I add some text here.
+
+to insert text in vim press i first to change mode frome edit to insert.
+
+^- move cursor to beginning of current line.
+$- move cursor to end of current line.
+
+:set nu - very usefull add line number at left site.
+
+bye bye.
